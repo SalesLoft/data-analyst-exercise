@@ -68,7 +68,7 @@ A few things to note before you get started:
 
 ## Visualization Challenge
 
-This portion of the exercise is aimed at understanding how you would convey the results of your work to stakeholdrs. There's no right or wrong choice for this part.
+This portion of the exercise is aimed at understanding how you would convey the results of your work to stakeholders. There's no right or wrong choice for this part.
 
 You can do this portion of the exercise in any tool you'd like. Excel, Google Sheets, Google Data Studio, even notebook software like Jupyter will work.
 
