@@ -95,17 +95,14 @@ You can do this portion of the exercise in any tool you'd like. Excel, Google Sh
 
 
 ## Exploratory Problem
-- Here is a bonus challenge which will definitely attract our attention if you answer.  The challenge is to perform Exploratory Data Analysis (EDA) and provide one well thought out recommendation to our sales process to improve the Close Rate.  
 
-- Exploratory Data Analysis (EDA) incorporates a number of techniques to better understand the dataset being used.  Here’s a link which provides information on EDA https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e which might be useful in answering this bonus question.
+- Here is a bonus challenge which will definitely attract our attention if you answer.  The challenge is to analyze the bookings data and provide recommendations to our sales process to improve the Close Rate.  
 
 - Definition: Close Rate = Number of opportunities closed won / Number of opportunities
 
 
 ### instructions
 
-- Here’s a last 12 month denormalized data set on our Bookings data [CSV file](/bonus_challenge/data) to perform Exploratory Data Analysis (EDA).
+- Here’s a last 12 month denormalized data set on our Bookings [CSV file](/bonus_challenge/data/Bookings_Data.csv).
 
-- We will accept analysis in excel, sql, or a notebook software of your choice.
-
-- Provide your recommendations along with the analysis in the [recommendations directory](/bonus_challenge/recommendations).
+- Submit your recommendations along with the analysis in any Word or PowerPoint document in the [recommendations directory](/bonus_challenge/recommendations).
