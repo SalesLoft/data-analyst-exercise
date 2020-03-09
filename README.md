@@ -105,4 +105,4 @@ You can do this portion of the exercise in any tool you'd like. Excel, Google Sh
 
 - Here’s a last 12 month denormalized data set on our Bookings [CSV file](/bonus_challenge/data/Bookings_Data.csv).
 
-- Submit your recommendations along with the analysis in any Word or PowerPoint document in the [recommendations directory](/bonus_challenge/recommendations).
+- Recommendations should be a brief Word or PowerPoint document.  Analysis can be in excel, sql, or notebook etc.  Both documents can be placed in the [recommendations directory](/bonus_challenge/recommendations) along with necessary instructions to run the files.
