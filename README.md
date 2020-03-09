@@ -1,8 +1,8 @@
 # SalesLoft Data Analyst Exercise
 
-Welcome to the SalesLoft Data Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Data Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know. 
+Welcome to the SalesLoft Data Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Data Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
 
-The exercise consists of three parts. 
+The exercise consists of three parts.
 
 1. A SQL Challenge
 2. A Visualization Component
@@ -28,25 +28,25 @@ After completing the exercise:
 
 A few things to note before you get started:
 
-* Please do all work for this portion of the exercise in SQL. While R or Python are useful tools, its important that you can use SQL to achieve the correct result. Any variant of SQL is fine but Postgres is preferred. 
+* Please do all work for this portion of the exercise in SQL. While R or Python are useful tools, its important that you can use SQL to achieve the correct result. Any variant of SQL is fine but Postgres is preferred.
 * There are blank/null values in the  data set and it reflects the nature of real world data.
 * The questions in this portion of the exercise are strictly to demonstrate SQL knowledge, so please take their intent with a grain of salt.
-* Use of documentation, online resources, or StackOverflow is _encouraged_. 
+* Use of documentation, online resources, or StackOverflow is _encouraged_.
 
 ### Instructions
 
 * Create a SQL database using the included [CSV files](/sql_challenge/data)
 * Use the database created to answer all the questions.
 * Provide all code you used to answer questions, set up the db, and import data in the [SQL Directory](/sql_challenge/sql)
-* Leave comments where you feel clarity is needed. 
+* Leave comments where you feel clarity is needed.
 
 ### Questions
 
 1. Data Integrity & Cleanup
 
-    Alphabetically list all the country codes in the continent map table that appear more than once. For countries with no country code make them display as "N/A" and display them first in the list. 
+    Alphabetically list all the country codes in the continent map table that appear more than once. For countries with no country code make them display as "N/A" and display them first in the list.
 
-2. List the Top 10 Countries by year over year % GDP per capita growth between 2011 & 2012. 
+2. List the Top 10 Countries by year over year % GDP per capita growth between 2011 & 2012.
 
     % year over year growth is defined as `(GDP Per Capita in 2012  -  GDP Per Capita in 2011)  /  (GDP Per Capita in 2011)`
 
@@ -59,7 +59,7 @@ A few things to note before you get started:
 
 3. For the year 2012, compare the percentage share of GDP Per Capita for the following regions: North America (NA), Europe (EU), and the Rest of the World. Your result should look something like:
 
-    North America  | Europe | Rest of the World 
+    North America  | Europe | Rest of the World
     ------ | ------ | -------------
     X%  | Y%  | Z%
 
@@ -86,7 +86,7 @@ You can do this portion of the exercise in any tool you'd like. Excel, Google Sh
 
 
 ### Instructions
-- Visualize the results of the questions 3, 4 & 5 from the SQL exercise. 
+- Visualize the results of the questions 3, 4 & 5 from the SQL exercise.
 - If you're doing your work in excel or google sheets, please clearly label your data sets and provide the resulting file in the [Viz Challenge](/viz_challenge) directory.
 - If you're doing your work in a cloud based visualization tool or other BI software that is publicly accessible, provide a link to the visualizations in a  file in the [Viz Challenge](/viz_challenge) directory.
 - If you're doing your work in a visualization tool or other BI software that _isn't_ publicly accessible, provide an artifact that contains the visualizations in the [Viz Challenge](/viz_challenge) directory.
@@ -95,6 +95,17 @@ You can do this portion of the exercise in any tool you'd like. Excel, Google Sh
 
 
 ## Exploratory Problem
+- Here is a bonus challenge which will definitely attract our attention if you answer.  The challenge is to perform Exploratory Data Analysis (EDA) and provide one well thought out recommendation to our sales process to improve the Close Rate.  
+
+- Exploratory Data Analysis (EDA) incorporates a number of techniques to better understand the dataset being used.  Here’s a link which provides information on EDA https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e which might be useful in answering this bonus question.
+
+- Definition: Close Rate = Number of opportunities closed won / Number of opportunities
 
 
+### instructions
 
+- Here’s a last 12 month denormalized data set on our Bookings data [CSV file](/bonus_challenge/data) to perform Exploratory Data Analysis (EDA).
+
+- We will accept analysis in excel, sql, or a notebook software of your choice.
+
+- Provide your recommendations along with the analysis in the [recommendations directory](/bonus_challenge/recommendations).
