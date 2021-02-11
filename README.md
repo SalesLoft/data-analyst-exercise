@@ -1,6 +1,6 @@
-# SalesLoft Data Analyst Exercise
+# SalesLoft Analyst Exercise
 
-Welcome to the SalesLoft Data Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Data Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
+Welcome to the SalesLoft Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
 
 The exercise consists of three parts.
 
@@ -22,7 +22,7 @@ After completing the exercise:
 
 1. Please make sure all your files have been placed in the appropriate folders
 2. Compress the exercise in a zip file
-3. Attach and email zipped file to mike.sandt@salesloft.com   
+3. Attach and email zipped file to analytics@salesloft.com  
 
 ## SQL Challenge
 
