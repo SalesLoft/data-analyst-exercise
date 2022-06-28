@@ -22,7 +22,7 @@ After completing the exercise:
 
 1. Please make sure all your files have been placed in the appropriate folders
 2. Compress the exercise in a zip file
-3. Attach and email zipped file to analytics@salesloft.com  
+3. Attach and email zipped file to analytics@salesloft.com, please make sure you cc your recruiter on this email as well
 
 ## SQL Challenge
 
